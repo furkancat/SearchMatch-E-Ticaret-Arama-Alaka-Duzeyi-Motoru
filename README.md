@@ -5,6 +5,8 @@
 
 ---
 
+<img width="1115" height="536" alt="Ekran görüntüsü 2026-08-29 002312" src="https://github.com/user-attachments/assets/8b7111b9-3d17-447f-baf8-0acb93fa8bac" />
+
 ## 🎯 Proje Motivasyonu
 
 Bu proje, **CV ve portfolyo** için geliştirilmiş bağımsız bir çalışmadır. E-ticaret platformlarındaki kullanıcı arama niyetleri ile ürünler arasındaki anlamsal bağın çözümlenmesi problemine; 2 aşamalı derin öğrenme mimarisi, açıklanabilir AI (XAI) ve endüstriyel düzeyde inference optimizasyonu ile yaklaşılmıştır.
