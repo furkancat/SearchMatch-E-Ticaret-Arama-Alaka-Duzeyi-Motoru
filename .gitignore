@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Sanal ortamlar
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Eğitim çıktıları (büyük dosyalar)
+outputs/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Veriseti (CSV'ler Git LFS gerektirebilir, data/ ignore edilebilir veya edilmeyebilir)
+# data/*.csv  # İstersen aç: CSV'ler GitHub'a gitmesin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Gradio
+flagged/
+
+# Proje görselleri (README'de kullanılanlar)
+!assets/
